@@ -84,6 +84,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## **Contact**
 
-For queries or suggestions, please contact the project maintainer at [mailto:argish.work@gmail.com](argish.work@gmail.com)
+For queries or suggestions, please contact the project maintainer at [mailto:argish.official@gmail.com](argish.official@gmail.com)
 
 ---
